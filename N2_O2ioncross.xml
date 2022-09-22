@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<root ptr="0x55d69ff08490" id="741" symbol="11SwRootFrame" lower="742">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x55d6a17dceb0" id="2"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="9" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="12240" height="15840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="12240" height="15840"/>
+ </infos>
+ <page ptr="0x55d69cc7cd00" id="742" symbol="11SwPageFrame" upper="741" lower="743">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="284" top="284" width="12240" height="15840" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9972" height="13572"/>
+  </infos>
+  <body ptr="0x55d6a17eb8a0" id="743" symbol="11SwBodyFrame" upper="742" lower="802">
+   <infos>
+    <bounds left="1418" top="1418" width="9972" height="13572" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9972" height="13572"/>
+   </infos>
+   <txt ptr="0x55d6a005dbf0" id="802" symbol="11SwTextFrame" next="776" upper="743" txtNodeIndex="9" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="1418" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="233"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a5007130" id="776" symbol="11SwTextFrame" next="760" prev="802" upper="743" txtNodeIndex="10" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="1651" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+wave_lo  wave_hi   O2+(cm2)    D.I(cm2)    <Text nLength="20" nType="PortionType::Text" nHeight="233" nWidth="2407" Portion="wave_lo  wave_hi   O"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="2"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="+"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="233" nWidth="361" Portion="(cm"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="2"/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="233" nWidth="1324" Portion=")    D.I(cm"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="2"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="120" Portion=")"/>
+    <LineBreak nWidth="4492" Line="wave_lo  wave_hi   O2+(cm2)    D.I(cm2)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a0375b70" id="760" symbol="11SwTextFrame" next="762" prev="776" upper="743" txtNodeIndex="11" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="1884" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+0.5      1.0      0.0       6.21232e-23    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="0.5      1.0      0.0       6.21232e-23"/>
+    <LineBreak nWidth="4693" Line="0.5      1.0      0.0       6.21232e-23"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a0a14e40" id="762" symbol="11SwTextFrame" next="763" prev="760" upper="743" txtNodeIndex="12" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="2117" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+1.0      1.5      0.0       2.73099e-22    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="1.0      1.5      0.0       2.73099e-22"/>
+    <LineBreak nWidth="4693" Line="1.0      1.5      0.0       2.73099e-22"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a38dbf70" id="763" symbol="11SwTextFrame" next="764" prev="762" upper="743" txtNodeIndex="13" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="2350" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+1.5      2.0      0.0       8.32564e-22    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="1.5      2.0      0.0       8.32564e-22"/>
+    <LineBreak nWidth="4693" Line="1.5      2.0      0.0       8.32564e-22"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4ef4250" id="764" symbol="11SwTextFrame" next="765" prev="763" upper="743" txtNodeIndex="14" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="2583" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+2.0      2.5      0.0       1.87498e-21    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="2.0      2.5      0.0       1.87498e-21"/>
+    <LineBreak nWidth="4693" Line="2.0      2.5      0.0       1.87498e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a037d520" id="765" symbol="11SwTextFrame" next="766" prev="764" upper="743" txtNodeIndex="15" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="2816" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+2.5      3.0      0.0       3.66278e-21    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="2.5      3.0      0.0       3.66278e-21"/>
+    <LineBreak nWidth="4693" Line="2.5      3.0      0.0       3.66278e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4461960" id="766" symbol="11SwTextFrame" next="767" prev="765" upper="743" txtNodeIndex="16" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3049" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+3.0      4.0      0.0       6.94684e-21    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="3.0      4.0      0.0       6.94684e-21"/>
+    <LineBreak nWidth="4693" Line="3.0      4.0      0.0       6.94684e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a22f5710" id="767" symbol="11SwTextFrame" next="768" prev="766" upper="743" txtNodeIndex="17" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3282" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+4.0      5.0      0.0       1.49560e-20    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="4.0      5.0      0.0       1.49560e-20"/>
+    <LineBreak nWidth="4693" Line="4.0      5.0      0.0       1.49560e-20"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d69fc00ed0" id="768" symbol="11SwTextFrame" next="769" prev="767" upper="743" txtNodeIndex="18" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3515" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+5.0      6.0      0.0       2.65763e-20    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="5.0      6.0      0.0       2.65763e-20"/>
+    <LineBreak nWidth="4693" Line="5.0      6.0      0.0       2.65763e-20"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4461ea0" id="769" symbol="11SwTextFrame" next="770" prev="768" upper="743" txtNodeIndex="19" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3748" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+6.0      8.0      0.0       5.25121e-20    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="6.0      8.0      0.0       5.25121e-20"/>
+    <LineBreak nWidth="4693" Line="6.0      8.0      0.0       5.25121e-20"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d69cd67300" id="770" symbol="11SwTextFrame" next="771" prev="769" upper="743" txtNodeIndex="20" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="3981" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+8.0      10.0     0.0       1.04941e-19    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="8.0      10.0     0.0       1.04941e-19"/>
+    <LineBreak nWidth="4693" Line="8.0      10.0     0.0       1.04941e-19"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4462150" id="771" symbol="11SwTextFrame" next="772" prev="770" upper="743" txtNodeIndex="21" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="4214" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+10.0     14.0     0.0       2.24844e-19    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="10.0     14.0     0.0       2.24844e-19"/>
+    <LineBreak nWidth="4693" Line="10.0     14.0     0.0       2.24844e-19"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a38c5eb0" id="772" symbol="11SwTextFrame" next="773" prev="771" upper="743" txtNodeIndex="22" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="4447" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+14.0     18.0     0.0       4.71352e-19    <Text nLength="39" nType="PortionType::Para" nHeight="233" nWidth="4693" Portion="14.0     18.0     0.0       4.71352e-19"/>
+    <LineBreak nWidth="4693" Line="14.0     18.0     0.0       4.71352e-19"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d69fe61460" id="773" symbol="11SwTextFrame" next="778" prev="772" upper="743" txtNodeIndex="23" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="4680" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+       <Text nLength="3" nType="PortionType::Para" nHeight="233" nWidth="361" Portion="   "/>
+    <LineBreak nWidth="361" Line="   "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a031d620" id="778" symbol="11SwTextFrame" next="779" prev="773" upper="743" txtNodeIndex="24" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="4913" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="233"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a0060a90" id="779" symbol="11SwTextFrame" next="780" prev="778" upper="743" txtNodeIndex="25" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5146" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="233"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a032a290" id="780" symbol="11SwTextFrame" next="781" prev="779" upper="743" txtNodeIndex="26" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5379" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+wave_lo  wave_hi   N2+(cm2)    D.I(cm2)    <Text nLength="20" nType="PortionType::Text" nHeight="233" nWidth="2407" Portion="wave_lo  wave_hi   N"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="2"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="+"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="233" nWidth="361" Portion="(cm"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="2"/>
+    <Text nLength="11" nType="PortionType::Text" nHeight="233" nWidth="1324" Portion=")    D.I(cm"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="70" Portion="2"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="233" nWidth="120" Portion=")"/>
+    <LineBreak nWidth="4492" Line="wave_lo  wave_hi   N2+(cm2)    D.I(cm2)"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a50b12d0" id="781" symbol="11SwTextFrame" next="782" prev="780" upper="743" txtNodeIndex="27" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5612" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="233"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a5004590" id="782" symbol="11SwTextFrame" next="784" prev="781" upper="743" txtNodeIndex="28" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="5845" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 0.5     1.0      9.14549e-25  3.29238e-23    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 0.5     1.0      9.14549e-25  3.29238e-23"/>
+    <LineBreak nWidth="5054" Line=" 0.5     1.0      9.14549e-25  3.29238e-23"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a502ebf0" id="784" symbol="11SwTextFrame" next="785" prev="782" upper="743" txtNodeIndex="29" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6078" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 1.0     1.5      4.01565e-24  1.44564e-22    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 1.0     1.5      4.01565e-24  1.44564e-22"/>
+    <LineBreak nWidth="5054" Line=" 1.0     1.5      4.01565e-24  1.44564e-22"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a07f9f40" id="785" symbol="11SwTextFrame" next="786" prev="784" upper="743" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6311" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 1.5     2.0      1.22854e-23  4.42273e-22    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 1.5     2.0      1.22854e-23  4.42273e-22"/>
+    <LineBreak nWidth="5054" Line=" 1.5     2.0      1.22854e-23  4.42273e-22"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4f8a7f0" id="786" symbol="11SwTextFrame" next="787" prev="785" upper="743" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6544" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 2.0     2.5      2.79563e-23  1.00643e-21    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 2.0     2.5      2.79563e-23  1.00643e-21"/>
+    <LineBreak nWidth="5054" Line=" 2.0     2.5      2.79563e-23  1.00643e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4f7b690" id="787" symbol="11SwTextFrame" next="788" prev="786" upper="743" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="6777" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 2.5     3.0      5.50466e-23  1.98168e-21    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 2.5     3.0      5.50466e-23  1.98168e-21"/>
+    <LineBreak nWidth="5054" Line=" 2.5     3.0      5.50466e-23  1.98168e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4f8a6c0" id="788" symbol="11SwTextFrame" next="789" prev="787" upper="743" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7010" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 3.0     4.0      1.05574e-22  3.80068e-21    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 3.0     4.0      1.05574e-22  3.80068e-21"/>
+    <LineBreak nWidth="5054" Line=" 3.0     4.0      1.05574e-22  3.80068e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a44b9660" id="789" symbol="11SwTextFrame" next="790" prev="788" upper="743" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7243" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 4.0     5.0      2.32087e-22  8.35513e-21    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 4.0     5.0      2.32087e-22  8.35513e-21"/>
+    <LineBreak nWidth="5054" Line=" 4.0     5.0      2.32087e-22  8.35513e-21"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4f1a8c0" id="790" symbol="11SwTextFrame" next="791" prev="789" upper="743" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7476" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 5.0     6.0      4.20707e-22  1.51455e-20    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 5.0     6.0      4.20707e-22  1.51455e-20"/>
+    <LineBreak nWidth="5054" Line=" 5.0     6.0      4.20707e-22  1.51455e-20"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a07a9550" id="791" symbol="11SwTextFrame" next="792" prev="790" upper="743" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7709" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 6.0     8.0      8.52547e-22  3.06917e-20    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 6.0     8.0      8.52547e-22  3.06917e-20"/>
+    <LineBreak nWidth="5054" Line=" 6.0     8.0      8.52547e-22  3.06917e-20"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d69fe64950" id="792" symbol="11SwTextFrame" next="793" prev="791" upper="743" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="7942" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 8.0     10.0     1.73814e-21  6.25729e-20    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 8.0     10.0     1.73814e-21  6.25729e-20"/>
+    <LineBreak nWidth="5054" Line=" 8.0     10.0     1.73814e-21  6.25729e-20"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a507cc00" id="793" symbol="11SwTextFrame" next="794" prev="792" upper="743" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="8175" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 10.0    14.0     3.80534e-21  1.36992e-19    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 10.0    14.0     3.80534e-21  1.36992e-19"/>
+    <LineBreak nWidth="5054" Line=" 10.0    14.0     3.80534e-21  1.36992e-19"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a0727350" id="794" symbol="11SwTextFrame" next="795" prev="793" upper="743" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="8408" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+ 14.0    18.0     8.15986e-21  2.93755e-19    <Text nLength="42" nType="PortionType::Para" nHeight="233" nWidth="5054" Portion=" 14.0    18.0     8.15986e-21  2.93755e-19"/>
+    <LineBreak nWidth="5054" Line=" 14.0    18.0     8.15986e-21  2.93755e-19"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x55d6a4f24e70" id="795" symbol="11SwTextFrame" prev="794" upper="743" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="1418" top="8641" width="9972" height="233" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9972" height="233"/>
+    </infos>
+     <Text nLength="1" nType="PortionType::Para" nHeight="233" nWidth="120" Portion=" "/>
+    <LineBreak nWidth="120" Line=" "/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
